@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "657183326144",
+    "project_id": "winnapplianceapp",
+    "storage_bucket": "winnapplianceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657183326144:android:8984ee65af2f93a38cd225",
+        "android_client_info": {
+          "package_name": "com.winngas.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657183326144-7toq6ek17smfi7rq65k2dlheei57vgrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kVUb--6TXBurC1tn0bNE3FAX_FaZDNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657183326144-7toq6ek17smfi7rq65k2dlheei57vgrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657183326144:android:8a716cc27668f0c48cd225",
+        "android_client_info": {
+          "package_name": "com.winnmerchant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657183326144-7toq6ek17smfi7rq65k2dlheei57vgrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kVUb--6TXBurC1tn0bNE3FAX_FaZDNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657183326144-7toq6ek17smfi7rq65k2dlheei57vgrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
